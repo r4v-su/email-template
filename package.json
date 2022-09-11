@@ -1,0 +1,19 @@
+{
+  "name": "email-template",
+  "version": "1.0.0",
+  "description": "Email template for Your company. Templates to verify and reset password",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4v-su/email-template.git"
+  },
+  "author": "r4v-su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r4v-su/email-template/issues"
+  },
+  "homepage": "https://github.com/r4v-su/email-template#readme"
+}
