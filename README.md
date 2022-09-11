@@ -1,4 +1,4 @@
-# Email template for imaginary company. Templates to verify and reset password
+# Email template for Your company. Templates to verify and reset password
 
 ### Tested on a few desktop and mobile mail clients
  1. Gmail app for iPhone.
