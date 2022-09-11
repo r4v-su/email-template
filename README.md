@@ -1,6 +1,8 @@
 # Email template for Your company. Templates to verify and reset password
 
 ### Tested on a few desktop and mobile mail clients
+#### Live preview : https://r4v-su-email-templates.mdbgo.io/index.html
+
  1. Gmail app for iPhone.
 
  2. Gmail in Chrome.
